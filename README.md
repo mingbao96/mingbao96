@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ming Gu.
 - 👀 I’m interested in Python, R, data analysis, machine learning and related algrithom.
 - 🌱 My research field is 3D Genomes.
-- 📫 How to reach me : tvu@qq.com or guming5@mail2.sysu.edu.com
+- 📫 How to reach me : guming5@mail2.sysu.edu.com
 
 <!---
 mingbao96/mingbao96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
