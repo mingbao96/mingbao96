@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mingbao96
+- 👋 Hi, I’m Ming Gu
 - 👀 I’m interested in Python, R, data analysis, machine learning and related algrithom
 - 🌱 My research interestes are 3D or 4D Genomes
 - 📫 How to reach me : tvu@qq.com or guming5@mail2.sysu.edu.com
