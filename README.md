@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mingbao96
 - 👀 I’m interested in Python, R, data analysis, machine learning and related algrithom
-- 🌱 I’m currently preparing for npgmcm(HUAWEI cup)
+- 🌱 I’m currently researching in Genomes
 - 📫 How to reach me : tvu@qq.com or guming5@mail2.sysu.edu.com
 
 <!---
