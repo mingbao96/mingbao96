@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mingbao96
 - 👀 I’m interested in Python, R, data analysis, machine learning and related algrithom
-- 🌱 I’m currently researching in Genomes
+- 🌱 My research interestes are 3D or 4D Genomes
 - 📫 How to reach me : tvu@qq.com or guming5@mail2.sysu.edu.com
 
 <!---
